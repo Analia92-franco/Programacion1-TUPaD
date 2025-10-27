@@ -1,0 +1,5 @@
+Lapicera,120.5,30
+Cuaderno,235.0,20
+Marcador,50.0,70
+Cartuchera,420,45
+
